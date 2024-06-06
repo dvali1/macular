@@ -1,5 +1,5 @@
 # IC3D:
-
+## Type: Consensus
 Macular dystrophy does involve the corneal endothelium unlike LCD, so PK may be a better option than DALK. Recurrence after corneal grafting is less common compared with GCD1 and classic LCD.
 
 ## Confocal:
@@ -10,6 +10,7 @@ Hyperreflectivity throughout the corneal stroma corresponds to diffuse corneal c
 
 
 # Aggarwal2018
+## Type: review
 In MCD, stromal lesions typically start in the first decade of life and patients often progress
 to develop severe vision loss by the third decade of life
 Initially, minute gray punctate opacities deposit in the cornea in teenage years that progress over time and develop into a diffuse stromal opacity.
@@ -49,31 +50,31 @@ survival rate of 93% vs 80% at 1 year; and 78% vs 70% at 4 years (reddy2015). Gi
 
 
 # AlAraj2021
-
+## Type: Retrospective cross-sectional observational
 In this study, they do not have endothelial assessment data for their study population, nor do they specify on what basis patients were allocated to either the DALK or PK group, respectively.
 
 Descemet membrane and endothelial involvement has been histopathologically documented in patients with MCD(Patel2009). Kawashima et al ()kawashima2006) reported progressive loss of endothelial density in patients with MCD who underwent DALK compared to PKP which might be attributed to the natural progression of the disease. However, several studies showed similar or lower endothelial cell loss in patients with MCD who underwent DALK in comparison to PKP (cheng2013, sari2013, patel2009).
 
 ## Results
 22 DALK cases
-There was no statistically significant difference in recurrent episodes between groups (4.5% in DALK vs 2.9% in PK)
-No DALK failed because of endothelial decompensation, although they had 4 cases with intraop microperforations; however, these were adequately managed intraoperatively without double AC formation.
+There was no statistically significant difference in recurrent episodes between groups (4.5% in DALK vs 2.9% in PK). 
+No DALK failed because of endothelial decompensation, although they had 4 cases with intraoperative microperforations; however, these were adequately managed intraoperatively without double AC formation.
 A common risk factor of recurrence identified in both groups, which was a small recipient and donor size
-Arora2015
--Comments on Reddy2015- which concluded that DALK may be considered as an option in cases of MCD where there is no direct clinical evidence of deposits on DM.
 
-Arora comments that Reddy might have had a high rate of microperforations because of the retrobulbar block as opposed to GA.
-
+# Arora2015
+## Type: Letter to the editor concerning Reddy2015
+They concluded that DALK may be considered as an option in cases of MCD where there is no direct clinical evidence of deposits on DM. They might have had a high rate of microperforations because of the retrobulbar block as opposed to GA.
 
 # Ashena2023
-A review, no noteworthy info here
+## Type: review
 
 # Balikci2024
+## Type: Retrospective cross-sectional observational
 A retrospective review of the medical records was performed for all patients who underwent either PK or DALK for MCD at the authors’ institution between January 1990 and December 2021.
 DALK was conducted using the big-bubble technique originally described by Anwar and Teichman. When attempts to produce a large bubble were unsuccessful, a manual dissection was carried out layer by layer
 
 No mention of any decision making algorithm to decide on DALK vs PK for patients.
-No mention of intraop complications
+No mention of intraoperative complications
 
 ## Results
 17 DALK cases
@@ -81,12 +82,12 @@ No mention of intraop complications
 ## Conclusions: there were no significant differences in the postoperative visual and refractive results between the DALK and PK groups.
 
 # Chaurasia2018
-
-Three BB1 DALK cases (all over 40 yo) with uneventful intraop course show primary graft failure. Two of them had pre-op CCT of about 550um, thicker than usual macular cases, so probably a sign of pre-op endothelial dysfunction. 
+## Type: Case series
+Three BB1 DALK cases (all over 40 yo) with uneventful intraoperative course show primary graft failure. Two of them had pre-op CCT of about 550um, thicker than usual macular cases, so probably a sign of pre-op endothelial dysfunction. 
 
 Authors report unpublished data: In those with good visual outcomes after DALK, the mean pachymetry was 462 and conclude that Pre- operative pachymetry may be useful in identifying eyes with poorer endothelial function.
-Cheng2013
-
+#Cheng2013
+## Type: Retrospective cross-sectional observational
 ## Endo eval: Patients with deep stromal and endothelial opacity (as assessed by OCT, RTVue) underwent PK, whereas those with anterior to middle stromal opacity underwent DALK
 
 ## DALK technique: a manual dissection done by Crescent blade alone after trephination
@@ -99,23 +100,28 @@ The possible risk factors for disease recurrence: male sex (P  0.059), 18 years 
 
 
 # Giri2022
+## Type: Case report
 Case report of successful manual DALK in a 14yo. Endo eval not done.
 
 # Goweida2021
+## Type: Case report
 One DALK case for macular dystrophy with a macroperforation and subsequent Urrets-Zavalia syndrome. No other data given.
-Jhanji2011
+
+# Jhanji2011
+## Type: Case report
 Two DALK cases for macular dystrophy.
 No extra data
 
 # Kawashima2006
-
+## Type: Retrospective cross-sectional observational
 In the MCD group, we limited the indication of DALK to the corneas in which the opacity was limited to the anterior to middle stromal layer by slit-lamp examination. This was attributed to the difference in preoperative endothelial density; MCD-DLKP group was 2433/mm2 , whereas that of MCD-PKP was uncountable.
 
 Two of 10 eyes with MCD developed endothelial decompensation
 
-## Conclusion:Collectively, we concluded that DALK is not a safe alternative for MCD, even in eyes with normal endothelial density.
+## Conclusion: Collectively, we concluded that DALK is not a safe alternative for MCD, even in eyes with normal endothelial density.
 
-# Kodavoor2019:
+# Kodavoor2019
+## Type: Retrospective cross-sectional observational
 ## Results:
 
 ## Endo eval: Optovue RTVue. AS‑OCT in all patients were obtained and demonstrated involvement only up to the posterior stromal layer. It is an important deciding factor in choosing surgery (DALK vs PK) as very deep involvement and endothelial involvement can result in recurrence.
@@ -127,11 +133,12 @@ Two patients in the macular dystrophy group developed microperforation during se
 Recurrence is possible even after successful surgery and has been described both in DALK and PK, and thus it makes more sense to prefer DALK in these patients.
 
 # Kodavoor2022:
+## Type: Retrospective cross-sectional observational
 29 DALK cases for macular dystrophy
 Intraop perforation in an unspecified no of cases with BB2 formation.
 
 # Li2019:
-
+## Type: Retrospective cross-sectional observational
 29 DALK BB attempts for Macular BB1 in  4 (13.8%) BB2 in 18 (62.1%) BB3 in 2 (6.9%) No BB in 5 (17.2%)
 
 Corneas with superficial corneal scarring had higher chances of type-1 BB, while those with deep corneal scarring had more type-2 BB.
@@ -139,17 +146,20 @@ Corneas with superficial corneal scarring had higher chances of type-1 BB, while
 # Li2021: (not the same Li)
 To be excluded. Only some genetic info
 
-# Pandrowala2004:
-Consanguineous marriages possibly contributed to the increase in macular dystrophy in South India. The most common stromal dystrophy requiring keratoplasty.
+# Pandrowala2004
+## Type: Retrospective cross-sectional observational
+## Methods: histopathological host corneal button analysis
+Consanguineous marriages possibly contributed to the increase in macular dystrophy in South India. Macular dystrophy is the most common stromal dystrophy requiring keratoplasty.
 Outcome in terms of clear grafts at last follow-up was best in macular dystrophy (92%),
 
-# Patel2009:
+# Patel2009
+## Type: Case report
 Case report of both eyes of one patient with macular dystrophy. One eye had Melles DALK which found an unacceptable dissection plane so the case was converted to PK, while the other eye had BB (probably type 1) DALK. Both eyes had a great visual and refractive outcome.
 DALK, like all new surgical techniques, presents the surgeon with a learning curve and
 unfamiliar complications such as Descemet membrane rupture and double-chamber formation.11 However, given the more serious complications associated with ‘‘open-sky’’surgery and the added advantages of lower rejection and graft failure rates, comparable visual acuities, ease of regrafting, low endothelial loss rates, and reduction in steroid therapy, DALK should perhaps be considered as the first choice of treatment.
 
 # Reddy2015
-
+## Type: Retrospective cross-sectional observational comparative case series
 Tsubota et al8 have reported a case of deep lamellar keratoplasty in MCD as early as 1998 with good success. 
 Later, small series were published for deep lamellar keratoplasty for MCD.9–11 
 Recently, in a larger series of 43 eyes, Unal et al12 have shown good success of DALK for MCD. 
@@ -168,7 +178,7 @@ Histopathologically, it is shown that in MCD, deposits are seen even in the endo
 
 
 # rubinstein2016
-
+## Type: Case series
 Our UBM examination of MCD shows alterations of the cornea's posterior layer and confirms the known clinical and histological findings of MCD that PK represents the therapy of choice, contrary to DALK. The novel CHST6 mutation shows the heterogeneity of MCD.
 Seitz 2011
 
@@ -183,7 +193,9 @@ Corneal dystrophies require stage- related therapy. To ensure stage- related the
 In case of deep stromal deposits sparing the endothelium and Descemet’s membrane DALK may be effective.
 
 Still, there are some corneal dystrophies that require PKP on principle (e.g. macular dystrophy).
-Selvan 2018
+
+# Selvan2018
+## Type: Case report
 Case report of a young male with macular corneal dystrophy, who underwent DALK in his left eye by Big-Bubble technique. The surgery was uneventful. On the first post-operative day, triple chamber was observed and followed-up with serial clinical photography and anterior segment optical coherence tomography. Due to decrease in graft clarity and increase in volume of the two extra chambers, interface drainage along with descemetopexy was undertaken 4 days later.
 
 The compartments constituting the triple chamber were those in-between the donor tissue and host pre-Descemet layer (Dua’s layer), the latter and host Descemet membrane and the true anterior chamber. Presence of viscoelastic in the interface was identified as the cause. Microscope integrated optical coherence tomography (MiOCT) guided drainage followed by intracameral air tamponade ensured near total disappearance of the two extra chambers at the end of surgery. Examination on the next day confirmed complete apposition of the graft and host.
@@ -205,6 +217,7 @@ Few studies compare outcomes of DALK with PK in MCD (Table-1). In a prospective 
 Kawashima et al5 reported increased endothelial cell loss after DALK in macular corneal dystrophy in comparison to lattice corneal dystrophy. Recurrence of primary pathology is less compared to lattice and granular dystrophy after DALK.60 Primary graft failure has been reported after DALK.61 Descemet stripping endothelial keratoplasty is described for an atypical case of MCD, wherein glycosaminoglycans deposits were predominantly at the endothelial level.16
 
 # sogutluSari2013:
+## Type: Retrospective cross-sectional observational comparative case series
 The DALK and PK group consisted of 35 and 41 eyes, respectively. Best-corrected visual acuity after surgery was 20/40 or better 68.5% and 70.7% of the eyes in the DALK and PK groups, respectively (P>.05). No statistically significant differences between groups were found in contrast sensitivity function with and without glare for any spatial frequency (P > .05). Significantly higher levels of higher-order aberrations were found in the DALK group (P<.01). In both groups, a progressive and statistically significant reduction in endothelial cell density was found (P < .01). At the last follow-up, the mean endothelial cell loss was 18.1% and 26.9% in DALK and PK groups, respectively (P [ .03). Graft rejection episodes were seen in 5 eyes (12.1%) in the PK group, and regrafting was necessary in 3 eyes (7.3%). Recurrence of the disease was documented in 5.7% and 4.8% of the eyes in the DALK and PK groups, respectively.
 
 Although DALK has several advantages over PK, there have been concerns about its role in macular dystrophy because of the involvement of deeper layers of stroma and possibly the Descemet membrane. Some investigators believe that DALK is not suitable for the treatment of macular corneal dystrophy, claiming that the stromal and endothelial involvement as well as the fragility of Descemet membrane in macular corneal dystrophy would lead to interface opacities and higher rates of endothelial cell attrition after DALK.4,10
@@ -248,9 +261,8 @@ Endothelial decompensation needing regraft surgery developed in only 1 eye (2.8%
 Unal and associates recently documented a 2.3% recurrence rate after bigbubble DALK for macular corneal dystrophy.15 In the present study, recurrence of the disease was documented in 2 eyes (5.7%) from the DALK group and in 2 eyes (4.8%) from the PK group after 30 months of follow-up. Previous studies have shown that the recurrence rate increased in direct proportion with the follow-up period and that there was a subsequent need for regrafting.26,27 We believe that recurrence of stromal dystrophies would be comparatively easier to manage with lamellar keratoplasty.
 
 
-
-
 # Unal2013
+## Type: Retrospective cross-sectional observational case series
 There were 44 eyes with macular corneal dystrophy, 18 eyes with lattice dystrophy, and 12 eyes with granular dystrophy. DALK was completed in 69 cases (94.6%). Descemet membrane microperforations occurred in 6 eyes (8.7%). The mean follow-up period was 43.5 ± 23.9 months, ranging from 12 to 96 months. Postoperative best spectacle–corrected visual acuity of 0.5 or better was present in 52 of 69 eyes (75.4%). There were 3 episodes of stromal graft rejection, which responded to topical therapy.
  One of the most important advantages over penetrating keratoplasty (PK) is the elimination of endothelial graft rejection. Also, because topical steroids can be discontinued earlier, there is less risk of secondary infection, delayed wound healing, cataract development, or glaucoma after DALK surgery.3–11
 DALK was attempted in 74 eyes of 65 consecutive patients with stromal corneal dystrophies. Surgeries were performed with the patient under general or retrobulbar anesthesia using the big bubble technique as described by Anwar and Teichmann.12 As first defined by Sarnicola et al13 and then others,4–6,8 patients who had complete DM exposure via the big bubble were termed as the Descemetic deep anterior lamellar keratoplasty (dDALK) group. In cases where a big bubble was not accomplished after more than one attempt, a layer-by-layer manual stromal dissection was performed under direct visualization. The surgeon intended to reach the maximal depth by exposing a plane as close as possible to the DM. This group of DALK patients was termed as the predescemetic deep anterior lamellar keratoplasty (pdDALK) group. At the end of the operation, air was injected intracamerally to prevent formation of a double anterior chamber in all cases.
@@ -279,7 +291,7 @@ It is suspected that recurrence of a stromal dystrophy occurs because of retaine
 Regrafting is a relatively simple procedure after anterior lamellar surgery. Therefore, performing DALK may be a better option in these cases, as repeat procedures may be necessary over a lifetime.
 
 # Vajpayee2007
-
+## Type: Retrospective cross-sectional observational case series
 One of the many techniques to achieve lamellar dissection down to DM in corneal opacities is the big-bubble technique, which uses air to create a plane of dissection between DM and corneal stroma.5 The technique of DALK has been largely used in treating cases of keratoconus, as it provides a safer and successful alternative to PK.6–9 Recently, the procedure has been used to treat stromal corneal dystrophies using the viscodissection technique.10 In the present study, we evaluated the use of DALK using the big-bubble technique5 for new indications including cases of stromal corneal dystrophy and corneal clouding attributable to mucopolysaccharidosis.
 
 Aici e descris dalk in mai multe distrofii. Au 5 pacienti cu maculara in studiu, cu AV pre si postop intr un tabel.
@@ -296,17 +308,9 @@ The stromal dystrophies are known to recur within the donor material after corne
 
 
 # Zhang2023:
-
+## Type: Review
 In a previous retrospective study, we followed 51 MCD patients over an 18-year period and found that patients undergoing penetrating keratoplasty (PKP) had a lower recurrence rate and delayed recurrence onset compared with those undergoing deep anterior lamellar keratoplasty (DALK) (Cheng et al., 2013). The five-year recurrence rate of PKP is 7.7% while that of DALK was 49.5% (Cheng et al., 2013). In another study that included 84 eyes with MCD and lattice corneal dystrophy (LCD), which also belongs to stromal dystrophies, MCD patients with DALK had a progressive decrease of corneal endothelial density, which was not observed in the LCD group (Kawashima et al., 2006). A more recent study involving 109 MCD eyes with PKP and 21 MCD eyes with DALK found a higher graft survival rate in the PKP group than in the DALK group (Reddy et al., 2015). These results suggest that DALK might not be the optimal surgery for MCD.
 We hypothesized that the corneal endothelium, which is not replaced in DALK but is replaced in PKP, may play a role in the recurrence and clinical outcomes of MCD.
 Endothelial black holes were already observed through corneal confocal microscopy in a six-year-old girl with early-stage MCD (Figure 1B), implying an early involvement of endothelium in MCD. In MCD patients who undergo PKP, the endothelial density (3,534 cells per mm2) and morphology remain healthy (Figure 1C). However, a recurrent MCD patient receiving DALK exhibited abundant abnormal deposits in the endothelial layer and decreased endothelial density (1,543 cells per mm2) (Figure 1D), indicating the crucial role of the endothelium in maintaining corneal transparency. - nu sunt sigur de paragraful asta
 An example of a typical recurrence case after 11 years of PKP showed haze likely originating from the peripheral host cornea and spreading towards the edges of the graft, as observed through optical coherence tomography (OCT) (Figure 1E). On the other hand, a typical recurrence case after 8.7 years of DALK showed haze developing from the bottom of the host cornea (Figure 1F), indicating a possible association between the residual endothelium and MCD recurrence in DALK.
 A total of 102 MCD patients with 124 eyes who underwent corneal transplantation at Qingdao Eye Hospital were retrospectively reviewed. Among them, 10.89% (11/101) of MCD eyes receiving PKP and 39.13% (9/23) of eyes receiving DALK by manual dissection were diagnosed with recurrences (Figure 1G). The MCD recurrent rate was significantly associated with the surgical method (P=0.017, χ2 test). The average time to recurrence was significantly longer for eyes receiving PKP, with 6.38±3.34 years compared with 2.56±2.71 years for eyes receiving DALK (P=0.017, Mann-Whitney U test).
-
-
-
-
-
-
-
-
