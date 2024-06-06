@@ -1,0 +1,27 @@
+name: Build LaTeX document
+
+on:
+  push:
+    branches:
+      - main  # or your default branch
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Set up LaTeX environment
+      run: sudo apt-get update && sudo apt-get install -y texlive-full
+
+    - name: Compile LaTeX document
+      run: |
+        latexmk -pdf template.tex
+
+    - name: Upload compiled PDF
+      uses: actions/upload-artifact@v2
+      with:
+        name: document
+        path: main.pdf
