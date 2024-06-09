@@ -88,7 +88,7 @@ Three BB1 DALK cases (all over 40 yo) with uneventful intraoperative course show
 
 Authors report unpublished data: In those with good visual outcomes after DALK, the mean pachymetry was 462 and conclude that Pre- operative pachymetry may be useful in identifying eyes with poorer endothelial function.
 
-#Cheng2013
+# Cheng2013
 ## Type: Retrospective cohort study
 ## Endo eval: Patients with deep stromal and endothelial opacity (as assessed by OCT, RTVue) underwent PK, whereas those with anterior to middle stromal opacity underwent DALK
 
