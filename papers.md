@@ -115,7 +115,7 @@ Two DALK cases for macular dystrophy.
 No extra data
 
 # Kawashima2006
-## Type: Retrospective cohort study
+## Type: Age matched case control
 In the MCD group, we limited the indication of DALK to the corneas in which the opacity was limited to the anterior to middle stromal layer by slit-lamp examination. This was attributed to the difference in preoperative endothelial density; MCD-DLKP group was 2433/mm2 , whereas that of MCD-PKP was uncountable.
 
 Two of 10 eyes with MCD developed endothelial decompensation
