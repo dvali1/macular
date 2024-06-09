@@ -78,6 +78,7 @@ No mention of intraoperative complications
 
 ## Results
 17 DALK cases
+Interface opacity was observed in seven (41.2%) eyes in the DALK group, those that underwent manual dissection during the operation.
 
 ## Conclusions: there were no significant differences in the postoperative visual and refractive results between the DALK and PK groups.
 
@@ -86,6 +87,7 @@ No mention of intraoperative complications
 Three BB1 DALK cases (all over 40 yo) with uneventful intraoperative course show primary graft failure. Two of them had pre-op CCT of about 550um, thicker than usual macular cases, so probably a sign of pre-op endothelial dysfunction. 
 
 Authors report unpublished data: In those with good visual outcomes after DALK, the mean pachymetry was 462 and conclude that Pre- operative pachymetry may be useful in identifying eyes with poorer endothelial function.
+
 #Cheng2013
 ## Type: Retrospective cohort study
 ## Endo eval: Patients with deep stromal and endothelial opacity (as assessed by OCT, RTVue) underwent PK, whereas those with anterior to middle stromal opacity underwent DALK
