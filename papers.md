@@ -126,13 +126,14 @@ Two of 10 eyes with MCD developed endothelial decompensation
 ## Type: Retrospective cohort study
 ## Results:
 
-## Endo eval: Optovue RTVue. AS‑OCT in all patients were obtained and demonstrated involvement only up to the posterior stromal layer. It is an important deciding factor in choosing surgery (DALK vs PK) as very deep involvement and endothelial involvement can result in recurrence.
+# Endo eval: Optovue RTVue. AS‑OCT in all patients were obtained and demonstrated involvement only up to the posterior stromal layer. It is an important deciding factor in choosing surgery (DALK vs PK) as very deep involvement and endothelial involvement can result in recurrence.
 In 9 out of 16 patients with macular dystrophy, preoperative endothelial count was not obtainable due to dense stromal opacity.
 
 Macular age group 27.9 ± 5.19 years.
 Two patients in the macular dystrophy group developed microperforation during separation of posterior stroma from the DM and were successfully managed by air endotamponade.
 
 Recurrence is possible even after successful surgery and has been described both in DALK and PK, and thus it makes more sense to prefer DALK in these patients.
+No statsistically sigificant difference betweenpre and post op ECD: EC (n=7) mm/cm2 pre 2330.71±255.33 post 2227.67±230.22 p value 0.1553
 
 # Kodavoor2022:
 ## Type: Retrospective cohort study
