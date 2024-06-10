@@ -193,7 +193,7 @@ In contrast to the other described techniques of ALKP, the big- bubble technique
 
 Corneal dystrophies require stage- related therapy. To ensure stage- related therapy, adequate classification with respect to histological findings is indispensable
 
-In case of deep stromal deposits sparing the endothelium and Descemet’s membrane DALK may be effective.
+In retrospect, given the acknowledgment by histology of endothelial participation in MCD, it is most likely that such undiagnosed involvement had also occurred in our patients, and as a whole, PKP should be regarded as the procedure of choice in MCD In case of deep stromal deposits sparing the endothelium and Descemet’s membrane DALK may be effective.
 
 Still, there are some corneal dystrophies that require PKP on principle (e.g. macular dystrophy).
 
