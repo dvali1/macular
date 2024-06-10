@@ -183,18 +183,15 @@ Histopathologically, it is shown that in MCD, deposits are seen even in the endo
 # rubinstein2016
 ## Type: Case series
 Our UBM examination of MCD shows alterations of the cornea's posterior layer and confirms the known clinical and histological findings of MCD that PK represents the therapy of choice, contrary to DALK. The novel CHST6 mutation shows the heterogeneity of MCD.
-Seitz 2011
+In retrospect, given the acknowledgment by histology of endothelial participation in MCD, it is most likely that such undiagnosed involvement had also occurred in our patients, and as a whole, PKP should be regarded as the procedure of choice in MCD In case of deep stromal deposits sparing the endothelium and Descemet’s membrane DALK may be effective.
 
-Aici sunt info despre dalk in general daca e nevoie, +:
+# Seitz 2011
 
-The technique of injecting air into the corneal stroma to facilitate dissection down to the Descemet’s membrane led to reduced interface haze and better postoperative Downloaded by: University of Hong Kong 198.143.53.1 - 8/17/2015 8:57:21 PM Stage- Related Therapy of Corneal Dystrophies 141 visual results. However, the rate of intraoperative perforation was high (39.2%) [57]. Descemet’s membrane separation is essential in improving the postoperative visual function, as stated by Ardjomand et al. [60]. They suggested that the main parameter for good visual function after DALK for keratoconus is the thickness of the residual recipient stromal bed. DALK performed in an eye with a residual bed thickness of <20 μm can achieve a similar visual result as PKP, whereas the eyes with a recipient stromal bed thickness of >80 μm had a significantly reduced visual acuity
+The technique of injecting air into the corneal stroma to facilitate dissection down to the Descemet’s membrane led to reduced interface haze and better postoperative visual results. However, the rate of intraoperative perforation was high (39.2%) [57]. Descemet’s membrane separation is essential in improving the postoperative visual function, as stated by Ardjomand et al. [60]. They suggested that the main parameter for good visual function after DALK for keratoconus is the thickness of the residual recipient stromal bed. DALK performed in an eye with a residual bed thickness of <20 μm can achieve a similar visual result as PKP, whereas the eyes with a recipient stromal bed thickness of >80 μm had a significantly reduced visual acuity
 
 In contrast to the other described techniques of ALKP, the big- bubble technique creates a perfect cleavage plane between Descemet’s membrane and the rest of the corneal tissue and appears to be much safer than the manual technique of achieving deep stromal dissection regarding the incidence of macroperforations. The big- bubble technique also ensures a maximum possible depth dissection achieving a complete baring of Descemet’s membrane so that no stromal tissue is left to cause interface haze in the future [61]. The importance of maintaining an intact Descemet’s membrane was proven by Den et al. [62]. They found that the rate of endothelial decompensation was higher in patients with Descemet’s membrane perforation. They attributed this to either direct insult to the cells associated with perforation or the ensuing pseudochamber formation or gas tamponade. In case Descemet’s membrane separation is not achieved or in case of macroperforation, the procedure is converted to a full- thickness transplantation. Using the excimer laser for lamellar trephination along metal masks, conversion to PKP can be performed without any disadvantage to the patient [63].
 
-Corneal dystrophies require stage- related therapy. To ensure stage- related therapy, adequate classification with respect to histological findings is indispensable
-
-In retrospect, given the acknowledgment by histology of endothelial participation in MCD, it is most likely that such undiagnosed involvement had also occurred in our patients, and as a whole, PKP should be regarded as the procedure of choice in MCD In case of deep stromal deposits sparing the endothelium and Descemet’s membrane DALK may be effective.
-
+Corneal dystrophies require stage- related therapy. To ensure stage- related therapy, adequate classification with respect to histological findings is indispensable.
 Still, there are some corneal dystrophies that require PKP on principle (e.g. macular dystrophy).
 
 # Selvan2018
