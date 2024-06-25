@@ -204,7 +204,9 @@ The patient underwent left eye DALK by Big Bubble technique under general anaest
 
 On post-operative day 1, the BCVA was 6/24 with graft clarity (GC) of 3 ? (Collaborative corneal transplantation study group grading) but a ‘triple chamber’ was appreciable (Fig. 2a).), surgical intervention was undertaken 4 days later. Microscope integrated optical coherence tomography (MiOCT) (OPMI LUMERA 700 and RESCAN 700, Carl Zeiss, Meditec, Germany) guided interface drainage was performed under topical anaesthesia. On releasing one suture, there was visible egression of retained viscoelastic from the interface (Fig. 3b). Residual viscoelastic was further aspirated using a cannula, and simultaneous decrease in size of the extra chambers was appreciated on MiOCT. Few pockets of viscoelastic sequestration were still noticeable on the MiOCT, giving a tabletop configuration (Fig. 3c). Air was injected into the anterior chamber to provide intracameral tamponade (descemetopexy).
 
-Nu mi se pare ca e multa info aici, e vorba de managementul triple ac intr un caz de maculara, fara info specifice pe maculara.Singh2021
+Nu mi se pare ca e multa info aici, e vorba de managementul triple ac intr un caz de maculara, fara info specifice pe maculara.
+
+#Singh2021
 However, progression of deposits in the endothelial cells can eventually lead to thickening of the Descemet membrane, endothelial decompensation and increased pachymetry .6,15,16
 
 Anterior segment optical coherence tomography (OCT) High Resolution OCT shows hyperreflectivity at the site of deposits associated with thinning of the epithelium over the deposits.42 Line scans passing through the peripheral cornea characterize the pre-Descemetic nature of the peripheral deposits.15 In some patients, thickening of the Descemet membrane may be noted. In advanced stages of the dystrophy, the dense stromal deposits cause an optical shadow in the posterior part of cornea
